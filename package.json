@@ -1,0 +1,23 @@
+{
+  "name": "reactjs-redux-ch03",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "material-ui": "^0.20.0",
+    "react": "^16.3.2",
+    "react-bootstrap": "^0.32.1",
+    "react-confirm": "^0.1.17",
+    "react-dialog": "^1.0.2",
+    "react-dom": "^16.3.2",
+    "react-redux": "^5.0.7",
+    "react-scripts": "1.1.4",
+    "redux": "^3.7.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
